@@ -1,5 +1,5 @@
-![DN Condensed Capital Serif](https://raw.githubusercontent.com/danielnisbet/dn-extended-serif/master/images/condensed-capital-serif-cover.jpg)
- 
+![DN Condensed Capital Serif](https://raw.githubusercontent.com/danielnisbet/dn-condensed-capital-serif/master/images/condensed-capital-serif-cover.jpg)
+
 ## About
 DN Condensed Capital Serif was designed in 2021 in Glyphs 3 on [YouTube](https://www.youtube.com/watch?v=pdyfr2jEJo4).
 
