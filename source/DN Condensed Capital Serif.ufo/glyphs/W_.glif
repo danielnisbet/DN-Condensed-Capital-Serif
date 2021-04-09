@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<advance width="919"/>
+	<unicode hex="0057"/>
+	<outline>
+		<contour>
+			<point x="503" y="722" type="line"/>
+			<point x="426" y="722" type="line"/>
+			<point x="303" y="76" type="line"/>
+			<point x="355" y="76" type="line"/>
+			<point x="191" y="722" type="line"/>
+			<point x="98" y="722" type="line"/>
+			<point x="299" y="0" type="line"/>
+			<point x="343" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="30" y="766" type="line"/>
+			<point x="98" y="722" type="line"/>
+			<point x="191" y="722" type="line"/>
+			<point x="243" y="766" type="line"/>
+			<point x="233" y="785" type="line"/>
+			<point x="143" y="775" type="line"/>
+			<point x="40" y="785" type="line"/>
+		</contour>
+		<contour>
+			<point x="356" y="766" type="line"/>
+			<point x="424" y="722" type="line"/>
+			<point x="504" y="722" type="line"/>
+			<point x="576" y="766" type="line"/>
+			<point x="566" y="785" type="line"/>
+			<point x="466" y="775" type="line"/>
+			<point x="366" y="785" type="line"/>
+		</contour>
+		<contour>
+			<point x="816" y="722" type="line"/>
+			<point x="739" y="722" type="line"/>
+			<point x="616" y="76" type="line"/>
+			<point x="668" y="76" type="line"/>
+			<point x="504" y="722" type="line"/>
+			<point x="440" y="612" type="line"/>
+			<point x="612" y="0" type="line"/>
+			<point x="656" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="669" y="766" type="line"/>
+			<point x="737" y="722" type="line"/>
+			<point x="817" y="722" type="line"/>
+			<point x="889" y="766" type="line"/>
+			<point x="879" y="785" type="line"/>
+			<point x="779" y="775" type="line"/>
+			<point x="679" y="785" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>V</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>V</string>
+		</dict>
+	</lib>
+</glyph>
